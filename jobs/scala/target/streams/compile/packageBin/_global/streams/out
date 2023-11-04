@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/airscholar/Dev/Projects/Python/SparkingFlow/jobs/scala/target/scala-2.12/word-count_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/airscholar/Dev/Projects/Python/SparkingFlow/jobs/scala/target/scala-2.12/classes/WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/airscholar/Dev/Projects/Python/SparkingFlow/jobs/scala/target/scala-2.12/classes/WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
